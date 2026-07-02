@@ -1,3 +1,4 @@
+Frameworks
 - Angular 
 - VueJs
 - Flutter
@@ -7,3 +8,12 @@
 - React
 - React Native
 - Bootstrap
+
+Languages 
+- Javascript
+- Java
+- PHP
+- HTML
+- CSS
+- Kobalt
+- 
