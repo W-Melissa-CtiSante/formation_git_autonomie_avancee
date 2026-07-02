@@ -9,6 +9,7 @@ Frameworks
 - React Native
 - Bootstrap
 - Twig
+- DataTables
 
 Languages 
 - Javascript
