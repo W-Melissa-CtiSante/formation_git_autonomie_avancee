@@ -17,4 +17,4 @@ Languages
 - HTML
 - CSS
 - Kobalt
-- 
+- Typescript
