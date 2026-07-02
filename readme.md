@@ -1,0 +1,7 @@
+- Javascript
+- Java
+- PHP
+- HTML
+- CSS
+- Kobalt
+- 
