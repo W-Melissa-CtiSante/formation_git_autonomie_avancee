@@ -8,6 +8,7 @@ Frameworks
 - React
 - React Native
 - Bootstrap
+- Twig
 
 Languages 
 - Javascript
