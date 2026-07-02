@@ -1,0 +1,9 @@
+- Angular 
+- VueJs
+- Flutter
+- JQuery
+- CodeIgniter
+- Symfony
+- React
+- React Native
+- Bootstrap
